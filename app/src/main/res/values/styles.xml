@@ -1,0 +1,9 @@
+<resources>
+<!-- Base application theme. -->
+<!--
+<style name="AppTheme" parent="android:Theme.Material.Light.DarkActionBar" />-->
+
+<style name="AppTheme" parent="Base.Theme.AppCompat.Light">
+    <item name="android:typeface">monospace</item>
+</style>
+</resources>
